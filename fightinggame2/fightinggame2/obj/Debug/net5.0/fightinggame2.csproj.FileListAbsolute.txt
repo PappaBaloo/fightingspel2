@@ -1,0 +1,16 @@
+C:\Programmering2\fightingspel2\fightinggame2\fightinggame2\obj\Debug\net5.0\fightinggame2.csproj.AssemblyReference.cache
+C:\Programmering2\fightingspel2\fightinggame2\fightinggame2\obj\Debug\net5.0\fightinggame2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmering2\fightingspel2\fightinggame2\fightinggame2\obj\Debug\net5.0\fightinggame2.AssemblyInfoInputs.cache
+C:\Programmering2\fightingspel2\fightinggame2\fightinggame2\obj\Debug\net5.0\fightinggame2.AssemblyInfo.cs
+C:\Programmering2\fightingspel2\fightinggame2\fightinggame2\obj\Debug\net5.0\fightinggame2.csproj.CoreCompileInputs.cache
+C:\Programmering2\fightingspel2\fightinggame2\fightinggame2\bin\Debug\net5.0\fightinggame2.exe
+C:\Programmering2\fightingspel2\fightinggame2\fightinggame2\bin\Debug\net5.0\fightinggame2.deps.json
+C:\Programmering2\fightingspel2\fightinggame2\fightinggame2\bin\Debug\net5.0\fightinggame2.runtimeconfig.json
+C:\Programmering2\fightingspel2\fightinggame2\fightinggame2\bin\Debug\net5.0\fightinggame2.runtimeconfig.dev.json
+C:\Programmering2\fightingspel2\fightinggame2\fightinggame2\bin\Debug\net5.0\fightinggame2.dll
+C:\Programmering2\fightingspel2\fightinggame2\fightinggame2\bin\Debug\net5.0\ref\fightinggame2.dll
+C:\Programmering2\fightingspel2\fightinggame2\fightinggame2\bin\Debug\net5.0\fightinggame2.pdb
+C:\Programmering2\fightingspel2\fightinggame2\fightinggame2\obj\Debug\net5.0\fightinggame2.dll
+C:\Programmering2\fightingspel2\fightinggame2\fightinggame2\obj\Debug\net5.0\ref\fightinggame2.dll
+C:\Programmering2\fightingspel2\fightinggame2\fightinggame2\obj\Debug\net5.0\fightinggame2.pdb
+C:\Programmering2\fightingspel2\fightinggame2\fightinggame2\obj\Debug\net5.0\fightinggame2.genruntimeconfig.cache
